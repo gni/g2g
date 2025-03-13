@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "g2g"
-version = "0.1.4"
+version = "0.1.5"
 description = "Easy migration between GitLab instances for specific group with it's repositories and subgroups."
 authors = ["Lucian BLETAN <neuraluc@gmail.com>"]
 license = "MIT"
